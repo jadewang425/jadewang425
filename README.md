@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Jade. I am a current student at General Assembly studying in Software Engineering Immersive. Previously worked in luxury goods corporate and took a turn only to discover my interest in software engineering!
+#####Something about me
+- I live in the big :apple:
+- :dog: Currently building an animal memory browser game 
+- :seedling: I am learning JavaScript, CSS, and HTML 
+- Check out my [LinkedIn](https://www.linkedin.com/in/jade-wang425/) :briefcase:
 <!--
 **jadewang425/jadewang425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
