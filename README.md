@@ -6,6 +6,8 @@ My name is Jade. I am a current student at General Assembly studying in Software
 - :dog: Currently building an animal memory browser game 
 - :seedling: I am learning JavaScript, CSS, and HTML 
 - Check out my [LinkedIn](https://www.linkedin.com/in/jade-wang425/) :briefcase:
+
+test
 <!--
 **jadewang425/jadewang425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
