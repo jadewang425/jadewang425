@@ -1,12 +1,21 @@
-### Hi there 👋
+<font face="Courier">
+<h2>Hi there 👋</h1>
 
-My name is Jade. I am a current student at General Assembly studying in Software Engineering Immersive. Previously worked in luxury goods corporate and took a turn only to discover my interest in software engineering!
-#####Something about me
+
+<p>My name is Jade. 
+I am a current student at General Assembly studying in Software Engineering Immersive. <br>
+Previously worked in corporate offices for luxury brands and took a turn to discover my passion in programming!
+</p>
+<h5>Something about me</h5>
+<p>
+
 - I live in the big :apple:
-- :dog: Currently building an animal memory browser game 
-- :seedling: I am learning JavaScript, CSS, and HTML 
+- :dog: Check out my very first project - a browser memory game 
+- :seedling: I am learning JavaScript, CSS, HTML, Express.js
 - Check out my [LinkedIn](https://www.linkedin.com/in/jade-wang425/) :briefcase:
+</p>
 
+</font>
 <!--
 **jadewang425/jadewang425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
