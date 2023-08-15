@@ -1,5 +1,4 @@
-<font face="Courier">
-<h2>Hi there 👋</h1>
+<samp><h2>Hi there 👋</h1>
 
 
 <p>My name is Jade. 
@@ -13,9 +12,8 @@ Previously worked in corporate offices for luxury brands and took a turn to disc
 - :dog: Check out my very first project - a browser memory game 
 - :seedling: I am learning JavaScript, CSS, HTML, Express.js
 - Check out my [LinkedIn](https://www.linkedin.com/in/jade-wang425/) :briefcase:
-</p>
+</p></samp>
 
-</font>
 <!--
 **jadewang425/jadewang425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
