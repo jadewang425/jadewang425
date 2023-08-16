@@ -5,7 +5,7 @@
 I am a current student at General Assembly studying in Software Engineering Immersive. <br>
 Previously worked in corporate offices for luxury brands and took a turn to discover my passion in programming!
 </samp></p>
-<h5><samp>Something about me</samp></h5>
+<h4><samp>Something about me</samp></h4>
 <p>
     <ul><samp>
         <li>I live in the big 🍎</li>
