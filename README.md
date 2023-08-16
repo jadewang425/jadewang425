@@ -11,7 +11,7 @@ Previously worked in corporate offices for luxury brands and took a turn to disc
         <li>I live in the big 🍎</li>
         <li>🐶 Check out my very first project - <a href="https://jadewang425.github.io/memory-game/">a browser memory game</a></li>
         <li>🌱 I am learning JavaScript, CSS, HTML, Express.js</li>
-        <li>Check out my <a href="https://www.linkedin.com/in/jade-wang425/">LinkedIn</a> 💼</li>
+        <li>Check out my <a href="https://www.linkedin.com/in/jade-c-w/">LinkedIn</a> 💼</li>
     </samp></ul>
 </p>
 
