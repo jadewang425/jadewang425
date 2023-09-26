@@ -10,7 +10,7 @@ I previously worked in E-commerce for luxury brands and decided to make a career
     <ul><samp>
         <li>I live in the big 🍎</li>
         <li>🐶 Check out my very first project - <a href="https://jadewang425.github.io/memory-game/">a browser memory game</a></li>
-        <li>🌱 I am learning Python3 and Django!</li>
+        <li>🌱 I am learning React!</li>
         <li>Check out my <a href="https://www.linkedin.com/in/jade-wang425/">LinkedIn</a> 💼</li>
     </samp></ul>
 <h4><samp>Skills</samp></h4>
@@ -22,10 +22,10 @@ I previously worked in E-commerce for luxury brands and decided to make a career
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 </p>
 
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
-<!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
 
 <!--
 **jadewang425/jadewang425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
