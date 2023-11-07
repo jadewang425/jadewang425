@@ -2,18 +2,18 @@
 
 
 <p><samp>My name is Jade. 
-I am currently a student at General Assembly, enrolled in the Software Engineering Immersive program. <br>
-I previously worked in E-commerce for luxury brands and decided to make a career transition to pursue my passion for programming!
+I recently completed the Software Engineering Immersive program at General Assembly. I am passionate in frontend development through creating aesthetically pleasing and responsive user interfaces.<br>
+I previously worked in E-commerce for luxury brands and decided to make a career pivot to pursue my passion for programming!
 </samp></p>
 <h4><samp>Something about me</samp></h4>
 <p>
     <ul><samp>
         <li>I live in the big 🍎</li>
-        <li>🐶 Check out my very first project - <a href="https://jadewang425.github.io/memory-game/">a browser memory game</a></li>
-        <li>🌱 I am learning React!</li>
+        <li>🐶 Check out my most recent project created with React - <a href="https://paw-circle.netlify.app/">Paw Circle - a pet meetup scheduling platform</a></li>
         <li>Check out my <a href="https://www.linkedin.com/in/jade-wang425/">LinkedIn</a> 💼</li>
     </samp></ul>
-<h4><samp>Skills</samp></h4>
+    <h4><samp>Skills</samp></h4>
+</p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +24,9 @@ I previously worked in E-commerce for luxury brands and decided to make a career
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-</p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 <!--
