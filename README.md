@@ -9,8 +9,8 @@ I previously worked in E-commerce for luxury brands and decided to make a career
 
 <ul><samp>
     <li>I live in the big 🍎</li>
-    <li>🐶 Check out my most recent project created with React - <a href="https://paw-circle.netlify.app/">Paw Circle - a pet meetup scheduling platform</a></li>
-    <li>Check out my <a href="https://www.linkedin.com/in/jade-wang425/">LinkedIn</a> 💼</li>
+    <li>🐶 Check out my most non-profit website redesign project created with React.js - <a href="https://barkanimalrescue.netlify.app/">BARK Animal Rescue</a></li>
+    <li>Let's connect on <a href="https://www.linkedin.com/in/jade-wang425/">LinkedIn</a> 💼</li>
 </samp></ul>
 
 ### <samp>Skills</samp>
