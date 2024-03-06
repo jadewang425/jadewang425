@@ -1,15 +1,16 @@
 ## <samp>Hi there 👋</samp>
 
 <samp>My name is Jade. 
-I recently completed the Software Engineering Immersive program at General Assembly. I am passionate in frontend development through creating aesthetically pleasing and responsive user interfaces.<br>
-I previously worked in E-commerce for luxury brands and decided to make a career pivot to pursue my passion for programming!
+I'm a Web Developer for Dora Maar, a luxury e-commerce marketplace powered by Shopify. In this role, I specialize in crafting user interfaces using Liquid Templating Language, along with JavaScript, HTML, and CSS. My primary responsibity involves rendering and dynamically displaying muses for users to explore products tailored to each muse's unique taste and style. <br>
+I enjoy building full-stack applications. Through discovering new features and implementing RESTful APIs, I'm able to incorporate these new features and stay up-to-update with the latest technologies!<br>
+Before transitioning into my current role, I've held various roles within the luxury industry for 7 years. It was my most recent role in E-commerce sparked my interest and passion to further pursue a career in software engineering.
 </samp>
 
-### <samp>Something about me</samp>
+### <samp>About Me</samp>
 
 <ul><samp>
     <li>I live in the big 🍎</li>
-    <li>🐶 Check out my most non-profit website redesign project created with React.js - <a href="https://barkanimalrescue.netlify.app/">BARK Animal Rescue</a></li>
+    <li>🐶 Check out my most recent non-profit web redesign project created with MERN-stack - <a href="https://barkanimalrescue.netlify.app/">BARK Animal Rescue</a></li>
     <li>Let's connect on <a href="https://www.linkedin.com/in/jade-wang425/">LinkedIn</a> 💼</li>
 </samp></ul>
 
