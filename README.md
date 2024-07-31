@@ -1,7 +1,7 @@
 ## <samp>Hi there 👋</samp>
 
 <samp>My name is Jade. 
-I'm a Shopify Developer for Driver Digital, an agency specializes in software development for fashion and beauty brands. I enjoy crafting aesthetically-pleasing user interfaces. My primary responsibity involves developing reusable components in Liquid for new features and/or overall website development.<br>
+I'm a Shopify Developer at Driver Digital, an agency specializes in software development for fashion and beauty brands. I enjoy crafting aesthetically-pleasing user interfaces. My primary responsibity involves developing reusable components using Liquid and TailwindCSS for new features and/or the overall website development.<br>
 Before my career transition into tech, I've held various roles in luxury industry for 7 years. It was my most recent role in E-commerce sparked my interest and passion to further pursue a career in software engineering.
 </samp>
 
@@ -14,9 +14,7 @@ Before my career transition into tech, I've held various roles in luxury industr
 </samp></ul>
 
 ### <samp>Skills</samp>
-<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadewang425&layout=compact) 
--->
 
 #### <samp>Languages</samp>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
