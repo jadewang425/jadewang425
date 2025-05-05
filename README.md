@@ -43,6 +43,8 @@ Before my career transition into tech, I've held various roles in luxury industr
 <!--
 **jadewang425/jadewang425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Link to get badges: https://github.com/Ileriayo/markdown-badges
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
